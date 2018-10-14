@@ -1,6 +1,6 @@
-Three version of document
+Second version of document
 
-Third(){
-	tree = 3;
-	struct qwert;
+Second(){
+	int two = 1;
+	struct poiu;
 }
