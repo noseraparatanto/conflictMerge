@@ -1,0 +1,6 @@
+Three version of document
+
+Third(){
+	tree = 3;
+	struct qwert;
+}
