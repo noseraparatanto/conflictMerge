@@ -1,0 +1,6 @@
+first version of document
+
+first(){
+	int one = 0;
+	struct asfd;
+}
