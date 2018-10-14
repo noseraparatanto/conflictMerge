@@ -1,6 +1,6 @@
-Second version of document
+Four version of document
 
-Second(){
-	int two = 1;
-	struct poiu;
+Four(){
+	int four = 4;
+	struct aiup;
 }
